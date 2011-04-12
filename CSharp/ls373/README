@@ -1,0 +1,16 @@
+With the class GpioManager you can control the output board LS-373 (support for inputs not yet implemented)
+Scheme and the location of the pins you can find in the manual of mainboard on page 29
+
+Table of outputs:
+Logical PIN  |  Mainobard PIN
+0                        3
+1                        5
+2                        7
+3                        9
+4                        4
+5                        6
+6                        8
+7                        10
+
+Digital output closes the circuit to ground.
+
